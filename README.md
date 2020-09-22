@@ -31,4 +31,6 @@ bundle exec jekyll serve --livereload --incremental
 
 ### Deploying
 
-_TODO_
+The site is deployed using [Netlify](https://netlify.com). 
+
+When changes are made to the main branch of the repository Netlify will automatically rebuild and deploy the site. Additionally, any Pull Request made against the main branch will create a deploy that may be previewed prior to merging.
