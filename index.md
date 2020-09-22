@@ -1,5 +1,3 @@
-# Health Equity Tracker
-
 ## OUR INITIATIVE.
 
 We aim to create a collaborative, multidisciplinary, multisector, public-facing data platform devoted to addressing the health equity implications for vulnerable populations during the COVID-19 pandemic, and develop standardized, evidence-based, best practices for developing socio-culturally responsive guidelines, resources, toolkits, and evaluation metrics for mitigating COVID-19 disparate outcomes for vulnerable populations and to provide technical assistance to health organizations, including state and local jurisdictions’ COVID-19 responses.
