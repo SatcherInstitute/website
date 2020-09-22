@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Health Equity Tracker
 
-You can use the [editor on GitHub](https://github.com/SatcherInstitute/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## OUR INITIATIVE.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We aim to create a collaborative, multidisciplinary, multisector, public-facing data platform devoted to addressing the health equity implications for vulnerable populations during the COVID-19 pandemic, and develop standardized, evidence-based, best practices for developing socio-culturally responsive guidelines, resources, toolkits, and evaluation metrics for mitigating COVID-19 disparate outcomes for vulnerable populations and to provide technical assistance to health organizations, including state and local jurisdictions’ COVID-19 responses.
 
-### Markdown
+## OUR PROJECT.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Examining the political determinants of health by creating a comprehensive, interactive, public-facing COVID-19 Health Equity Map of the United States and its territories, inclusive of all racial population groups. This project analyzes jurisdictional policies that either exacerbate or alleviate COVID-19 outcomes, comorbidities, resource allocation/management, jurisdictions’ response, and mitigation strategies, testing, and contact tracing, and overall implications for health equity for vulnerable populations. The project allows us to not only understand and share policy research on racial and ethnic and socioeconomic disparities but to understand and share information on the mental/behavioral health equity impact of COVID-19.
 
-```markdown
-Syntax highlighted code block
+## OUR IMPACT.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SatcherInstitute/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Benchmarking equity to create actionable evidence-based policy responses by engaging with diverse communities across the country to develop policy templates for local, state, and federal policymakers, and develop and publish a state-by-state report card or county-by-county report card based on five to ten objectives/thresholds determined by a national panel of experts under our COVID-19 Health Equity Commission (CHEC). The project creates a special track in HELEN focused on coordinating COVID-19 community engagement, education, training, information exchange and dissemination, policy analysis, and advocacy.
