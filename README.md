@@ -29,6 +29,10 @@ Run the site locally by doing:
 bundle exec jekyll serve --livereload --incremental
 ```
 
+Note that the `--incremental` flag is an experimental feature which only builds parts of the site that have changed. It may need to be excluded when encountering build problems.
+
+For any changes to `_config.yml` to affect the build process, you will need to stop and restart the build command above.
+
 ### Deploying
 
 The site is deployed using [Netlify](https://netlify.com). 
