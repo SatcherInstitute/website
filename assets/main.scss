@@ -5,10 +5,15 @@
 // imports default styles
 @import "minima";
 
+////////////////////////////////////////////////
 // custom variables
+////////////////////////////////////////////////
 $shli-blue: #004c97;
+$shli-grey-med: #77788b; // style overrides
 
+////////////////////////////////////////////////
 // style overrides
+////////////////////////////////////////////////
 body {
   font-family: "Hind", sans-serif;
 }
@@ -16,6 +21,15 @@ body {
 header.site-header {
   background-color: $shli-blue;
   border: 0;
+
+  .wrapper {
+    margin-left: initial;
+  }
+}
+
+// temporarily disable navigation since there's a single page for now
+nav.site-nav {
+  display: none;
 }
 
 h1,
@@ -24,7 +38,8 @@ h3,
 h4,
 h5,
 h6 {
-  color: $shli-blue;
+  font-family: "Montserrat", sans-serif;
+  color: $shli-grey-med;
 }
 
 a {
@@ -34,13 +49,33 @@ a {
   &:hover {
     color: darken($shli-blue, 10%);
   }
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.social-media-list a .username {
+  &:hover,
+  &:visited {
+    text-decoration-style: none;
+    text-decoration: none;
+  }
+}
+
+.site-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  line-height: 54px;
+  letter-spacing: -1px;
+  color: #fff;
+  margin-bottom: 0;
+
+  &:visited {
+    color: #fff;
+  }
 }
 
 .svg-icon {
   fill: $shli-blue;
-}
-
-.site-title,
-.site-title:visited {
-  color: #fff;
 }
